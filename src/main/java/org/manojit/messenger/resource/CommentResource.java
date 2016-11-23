@@ -8,4 +8,7 @@ public class CommentResource {
 public void trialmethod(){
 	
 }
+public void trialmethod3(){
+	
+}
 }
