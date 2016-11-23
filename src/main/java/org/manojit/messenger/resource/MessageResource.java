@@ -49,8 +49,8 @@ public class MessageResource {
 	}
 
 	@Path("/{messageId}/comments")
-	public String getComments(){
-		return 
+	public CommentResource getComments(){
+	 return  new CommentResource();
 		
 	}
 }
