@@ -11,4 +11,11 @@ public void trialmethod(){
 public void trialmethod3(){
 	
 }
+	public void trialmethod1(){
+		
+}
+	public void trialmethod4(){
+		
+
+}
 }
