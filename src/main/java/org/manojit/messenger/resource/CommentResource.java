@@ -23,4 +23,8 @@ public class CommentResource {
 	public void trailmethod6(){
 		System.out.println("this is trialmethod5()");
 	}
+
+	public void trialmethod5(){
+	}
 }
+
